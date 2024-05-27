@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: poppins, Verdana, Geneva, Tahoma;
+    box-sizing: border-box;
+}
+
+.navbar {
+    color: rgb(64, 107, 64);
+    height: 100px;
+    width: 100%;
+    padding: 0px 15px;
+    background-color:  rgb(49, 160, 49);
+    margin: 0;
+    display: inline-block;
+}
+
+li{
+    text-decoration: none;
+    display: inline-block;
+    float: right;
+}
+
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.navdiv{
+}
+
+
+.logo{
+    color:rgb(49, 160, 49);
+    padding-top:  25px;
+    padding-bottom: 25px;
+    display: inline-block;
+    font-size: 35px;
+    background-color: white;
+    margin-left: 300px;
+    text-align: center;
+}
