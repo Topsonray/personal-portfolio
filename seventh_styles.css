@@ -39,7 +39,7 @@ ul{
 .hero{
   display: grid;
   place-items:center;
-  background-image: url('https://drive.google.com/file/d/1hQQK9e8xOJX56vsP66AFys3_Hq8L0j9M/view?usp=classroom_web&authuser=0');
+  background-image: url('bg.png');
   background-position:center;
   background-size:cover;
   background-repeat: no-repeat;
@@ -54,14 +54,14 @@ ul{
   height:80vh;
   position:absolute;
   background-color: rgba(0,0,0,0.7);
-  z-index:-1 */
-} 
+  z-index:-1 
+}*/ 
 .hero-header{
   color:#ffffff;
-  font-size:4rem
+  font-size:4rem;
 }
 .dev{
-  color:#295244;
+  color:#0cf1a5;
   font-size:2rem;
 
 }
